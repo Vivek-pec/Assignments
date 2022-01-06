@@ -91,7 +91,7 @@ del color[3]
 
 print(color)
 
-print("Remove ‘Black’ and ‘Pink’ from the list and replace them with ‘Purple’. Do that in one line code.")
+print("Remove Black and Pink from the list and replace them with Purple. Do that in one line code.")
 print("")
 
 #Part-2
