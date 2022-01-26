@@ -1,5 +1,3 @@
-print("                     ASSIGNMENT 2")
-
 print("\nQUESTION 1 ")
 
 str="Python is a case sensitive language"   #Given string
